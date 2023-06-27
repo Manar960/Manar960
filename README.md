@@ -1,2 +1,11 @@
-# Manar960-
-My personal repository
+ ## Quick overview
+ Hi there 👋 my name is Manar
+ - Website development
+## Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manar960&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/batooldshilleh?tab=repositories))
+## Skill List
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,discord,github,html,js,linux,py" />
+  </a>
+</p>
