@@ -6,6 +6,6 @@
 ## Skill List
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,discord,github,html,js,linux,py,flutter" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,discord,github,html,js,linux,py,flutter,sqlite,netlify,mongodb,jenkins,mysql" />
   </a>
 </p>
