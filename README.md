@@ -18,7 +18,7 @@
 
 <div align="center">
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manar960&" alt="manar960" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manar960&" alt="manar960" /></p>
   <br>
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manar960&custom_title=Manar's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
